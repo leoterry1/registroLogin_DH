@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;1,500&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url("/images/bush.png");
+    padding-top: 100px;
+}
+.formulario{
+    background-color: #fff;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px #181818;
+
+}
+.formulario form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 18px;
+    justify-content: space-between;
+}
+.formulario form label, .formulario form input, .formulario form span, .formulario form button{
+    margin: 10px 0;
+}
+.formulario form input{
+    border: none;
+    border-bottom: 2px solid #666666;
+    outline: none;
+}
+.formulario form button{
+    border-radius: 25px;
+    width: 30%;
+    margin: 10px auto;
+    font-size: 20px;
+    padding: 5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(75, 176, 235);
+}
+.formulario form span{
+    color: red;
+    font-size: 15px;
+}
+.formulario form .cuenta{
+    color: #000;
+}
+.perfil{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px #181818;
+    background-image: url("/images/5-dots.png");
+    background-repeat: no-repeat;
+    background-position:  top;
+    background-size: 100% 50%;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.perfil .img{
+    width: 30%;
+    border: 5px solid rgb(75, 176, 235);
+    border-radius: 50%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.perfil .img img{
+    width: 100%;
+    border-radius: 50%;
+}

@@ -1,1 +1,14 @@
-[{"name":null,"email":null,"password":null,"img":null}]
+[
+    {
+        "name": null,
+        "email": null,
+        "password": null,
+        "img": null
+    },
+    {
+        "name": "Lucas",
+        "email": "lucasenriquez1997@gmail.com",
+        "password": "$2b$10$yDWWWbUmV44oEbgxrK.ct.zjH5cRGapReaEH9vE2pSO5RQCdXWfvy",
+        "img": "img-1611947104371.jpg"
+    }
+]
