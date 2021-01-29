@@ -2,7 +2,6 @@ let bcrypt = require("bcrypt")
 const fs = require("fs");
 module.exports = {
     formLogin: (req, res) => {
-        console.log(req.body)
         let mensaje = false
         res.render("login", { mensaje })
     },

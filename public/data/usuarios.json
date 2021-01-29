@@ -1,14 +1,1 @@
-[
-    {
-        "name": null,
-        "email": null,
-        "password": null,
-        "img": null
-    },
-    {
-        "name": "Lucas",
-        "email": "lucasenriquez1997@gmail.com",
-        "password": "$2b$10$yDWWWbUmV44oEbgxrK.ct.zjH5cRGapReaEH9vE2pSO5RQCdXWfvy",
-        "img": "img-1611947104371.jpg"
-    }
-]
+[{"name":null,"email":null,"password":null,"img":null},{"name":"Lucas","email":"lucasenriquez1997@gmail.com","password":"$2b$10$yDWWWbUmV44oEbgxrK.ct.zjH5cRGapReaEH9vE2pSO5RQCdXWfvy","img":"img-1611947104371.jpg"},{"name":" Licas","email":"Lucasenriquez1997@gmail.com","password":"$2b$10$ynMsOo1K9uxClqN5rtgBe.2Wp/W7AZ9sY7h/Q3uq7ZJxw7Tr1D3Xy","img":"perfil.jpg"}]
