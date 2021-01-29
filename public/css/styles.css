@@ -52,6 +52,10 @@ body{
 .formulario form .cuenta{
     color: #000;
 }
+.formulario .input-img{
+    border: none;
+    margin: 10px auto;
+}
 .perfil{
     max-width: 500px;
     margin: auto;
